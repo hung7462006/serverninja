@@ -1,1 +1,1 @@
-THPT Thanh Hoà:127.0.0.1:14444:0:0
+THPT Thanh Hoà:0.tcp.ap.ngrok.io:13080:0:0
